@@ -3,3 +3,6 @@ Small project made for Modeling and Indetification class. Initially it was writt
 in MATLAB but in this repo is version rewritten in Python(numpy + seaborn +
 pandas + matplotlib)
 
+I haven't translate all docs and results to english but the best model and usage
+can be find in .ipnb file in /src
+
