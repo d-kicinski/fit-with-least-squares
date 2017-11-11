@@ -3,6 +3,9 @@ import fileinput
 
 """
 Simple script to repair delimiters in data set
+
+author: @dawidkski
+
 """
 
 # variable definition
